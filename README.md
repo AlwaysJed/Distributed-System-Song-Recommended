@@ -1,7 +1,7 @@
 # Distributed System - Song Recommendations
 
 
-Developed by: Chris Yang, Jedididah Pollard, Uriah
+Developed by: Chris Yang, Jedidiah Pollard, Uriah
 
 ##
 
